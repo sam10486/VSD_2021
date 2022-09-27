@@ -1,0 +1,19 @@
+
+Initializing...
+lc_shell> read_lib sram_1024_BC.lib
+Reading '/home/user2/vsd21/vsd2111/Desktop/sram_word/sram_1024_BC.lib' ...
+Warning: Line 45, The default_operating_conditions is not defined. operating_conditions 'BCCOM' is set
+        as the default_operating_conditions. (LBDB-663)
+Warning: Line 45, The 'internal_power_calculation' attribute in char_config group is required for NLPM library. 
+        No default can be applied to this attribute. (LBDB-366)
+Technology library 'sram_1024_BC' read successfully
+1
+lc_shell> write_lib sram_1024_BC -format db -output sram_1024_BC.db
+Wrote the 'sram_1024_BC' library to '/home/user2/vsd21/vsd2111/Desktop/sram_word/sram_1024_BC.db' successfully
+1
+lc_shell> exit
+Maximum memory usage for this session: 64.14 MB
+CPU usage for this session:      2 seconds (  0.00 hours)
+Elapsed time for this session:    112 seconds (  0.03 hours)
+Thank you for using Library Compiler.
+

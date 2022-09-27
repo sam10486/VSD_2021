@@ -1,0 +1,16 @@
+# .gitignore
+
+*.log
+*.history
+*.rc
+
+HW*/N26094891/build/
+
+HW*/N26094891/syn/
+
+HW*/N26094891/pr/
+
+Final_Project/N26094891/pr/
+Final_Project/N26094891/syn/
+Final_Project/N26094891/build/
+Final_Project/N26094891/*~

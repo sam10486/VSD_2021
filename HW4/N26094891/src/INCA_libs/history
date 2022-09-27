@@ -1,0 +1,28 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(18Dec2021:18:22:25):( ncverilog +nc64bit CSR.sv )
+s2::(18Dec2021:18:23:00):( ncverilog +nc64bit CSR.sv )
+s3::(18Dec2021:18:24:34):( ncverilog +nc64bit CSR.sv )
+s4::(18Dec2021:18:24:47):( ncverilog +nc64bit CSR.sv )
+s5::(18Dec2021:18:24:57):( ncverilog +nc64bit CSR.sv )
+s6::(18Dec2021:19:49:32):( ncverilog +nc64bit CSR.sv )
+s7::(18Dec2021:22:02:36):( ncverilog +nc64bit CSR.sv )
+s8::(18Dec2021:22:02:43):( ncverilog +nc64bit CPU )
+s9::(18Dec2021:22:02:46):( ncverilog +nc64bit CPU.sv )
+s10::(18Dec2021:22:03:29):( ncverilog +nc64bit CPU.sv )
+s11::(18Dec2021:22:04:02):( ncverilog +nc64bit CPU.sv )
+s12::(18Dec2021:22:04:27):( ncverilog +nc64bit CPU.sv )
+s13::(18Dec2021:22:05:17):( ncverilog +nc64bit CPU.sv )
+s14::(18Dec2021:22:05:48):( ncverilog +nc64bit CPU.sv )
+s15::(18Dec2021:22:06:32):( ncverilog +nc64bit CPU.sv )
+s16::(19Dec2021:21:11:02):( ncverilog +nc64bit )
+s17::(19Dec2021:21:11:05):( ncverilog +nc64bit CPU )
+s18::(19Dec2021:21:11:20):( ncverilog +nc64bit CPU.sv )
+s19::(19Dec2021:21:18:52):( ncverilog +nc64bit top.sv )
+s20::(19Dec2021:21:21:37):( ncverilog +nc64bit top.sv )
+s21::(19Dec2021:21:24:28):( ncverilog +nc64bit top.sv )
+s22::(19Dec2021:21:27:50):( ncverilog +nc64bit top.sv )
+s23::(19Dec2021:21:28:18):( ncverilog +nc64bit top.sv )
+s24::(19Dec2021:21:35:36):( ncverilog +nc64bit top.sv )
